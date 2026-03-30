@@ -1,0 +1,3 @@
+Command Line: /opt/Synopsys/verdi/T-2022.06-SP2/platform/LINUXAMD64/bin/Novas -f ../script/filelist.f -ssf async.fsdb
+uname(Linux CentosPublic 3.10.0-957.el7.x86_64 #1 SMP Thu Nov 8 23:39:32 UTC 2018 x86_64)
+au time 4369.368599 40.418777 27.255082 delta 317018112 317018112 total 865673216 865673216
